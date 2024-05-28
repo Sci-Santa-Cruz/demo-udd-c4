@@ -1,4 +1,4 @@
-## Titanic Dataset Project
+## Proyecto 7: Titanic  
 
 ### Descripción
 Este proyecto utiliza el famoso dataset del Titanic para entrenar un modelo de clasificación que predice la supervivencia de los pasajeros. El modelo y el procesamiento de datos se implementan en un entorno Flask para proporcionar una interfaz web interactiva.
